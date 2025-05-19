@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "b8858bbb-07e9-44e7-b02c-d20a666d9a9e",
+		"name": "Aula 1 - Pokemon",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "45103644",
+		"_collection_link": "https://derick-5144404.postman.co/workspace/Derick's-Workspace~5d03bf02-66da-41cf-823c-873fbe807488/collection/45103644-b8858bbb-07e9-44e7-b02c-d20a666d9a9e?action=share&source=collection_link&creator=45103644"
+	},
+	"item": [
+		{
+			"name": "Localiza Pokemon com sucesso",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Não Localiza Pokemon",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Endpoint falho localiza Pokemon",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
