@@ -1,4 +1,4 @@
-# Lista-S206
+# Prova Postman-S206
 Este projeto contém a solução da prova de testes de API utilizando a ferramenta **Postman**, conforme instruções.
 
 # Sobre o projeto
